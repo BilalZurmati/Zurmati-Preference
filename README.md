@@ -15,7 +15,7 @@ Step 2. Add the dependency
 
  ```
 dependencies {
-	        implementation 'com.github.BilalZurmati:Zurmati-Preference:Tag'
+	        implementation 'com.github.BilalZurmati:Zurmati-Preference:1.0.0'
 	}
  ```
  
